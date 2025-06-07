@@ -5,4 +5,4 @@ Key Objectives-
 1. Configuring Nessus to target host.
 2. Running a scan to said host.
 3. Interpreting the results of the scan.
-4. Creating a remediation plan based upon results.
+4. An analysis regarding the scan results.
